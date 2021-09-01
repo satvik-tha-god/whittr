@@ -5,7 +5,9 @@ Whittr is a free, privacy-centric and open source chatting web-application where
 
 ## Made with love by Cob:web-Aclevo and our Open source contributors:
 
-Kingsley Victor - Lead Developer
+Kingsley Victor - Former Lead Developer
+
+Satvik Singh - Lead developer
 
 Adam Salt - Former Lead Developer, Former front-end UI/UX developer
 
